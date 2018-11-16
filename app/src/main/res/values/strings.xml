@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="open">打开通知栏</string>
+    <string name="close">关闭通知栏</string>
+    <string name="open_second">打开</string>
+    <string name="close_second">关闭</string>
+</resources>
